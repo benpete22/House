@@ -16195,9 +16195,9 @@
                     version: "1.0.0",
                     defaultLanguage: "en-US",
                     supportedLanguages: ["en-US", "fr-FR"],
-                    viewerUrl: "https://tourapi.vht.com",
+                    viewerUrl: "https://house.benpete.com/tourapi.vht.com",
                     testAgentEmail: "",
-                    baseUrl: "https://tour.vht.com"
+                    baseUrl: "https://house.benpete.com/tourapi.vht.com"
                 }
             },
             BFxc: function(e, t, n) {
